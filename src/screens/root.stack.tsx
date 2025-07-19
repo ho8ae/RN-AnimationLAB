@@ -1,5 +1,5 @@
 import { createStackNavigator } from '@react-navigation/stack';
-import {HomeScreen} from './home'
+import { HomeScreen } from './home';
 export type RootStackParamList = {
   Home: undefined;
 };

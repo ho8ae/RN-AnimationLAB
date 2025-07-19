@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "TempCLI.app"
-               BlueprintName = "TempCLI"
-               ReferencedContainer = "container:TempCLI.xcodeproj">
+               BuildableName = "animationlab.app"
+               BlueprintName = "animationlab"
+               ReferencedContainer = "container:animationlab.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "TempCLITests.xctest"
-               BlueprintName = "TempCLITests"
-               ReferencedContainer = "container:TempCLI.xcodeproj">
+               BuildableName = "animationlabTests.xctest"
+               BlueprintName = "animationlabTests"
+               ReferencedContainer = "container:animationlab.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TempCLI.app"
-            BlueprintName = "TempCLI"
-            ReferencedContainer = "container:TempCLI.xcodeproj">
+            BuildableName = "animationlab.app"
+            BlueprintName = "animationlab"
+            ReferencedContainer = "container:animationlab.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "TempCLI.app"
-            BlueprintName = "TempCLI"
-            ReferencedContainer = "container:TempCLI.xcodeproj">
+            BuildableName = "animationlab.app"
+            BlueprintName = "animationlab"
+            ReferencedContainer = "container:animationlab.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
